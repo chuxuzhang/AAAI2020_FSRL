@@ -15,6 +15,8 @@ Run the code: python main.py [parameter]
 
 (default setting for NELL data, set dropout raito ~0.1 for Wiki data)
 
+(create models/ directory before running)
+
 <2> If you find code useful, pls consider cite our paper.
 
 @inproceedings{zhang2020kg,

@@ -13,7 +13,7 @@ Run the code: python main.py [parameter]
 
 (Note that we set candidate size as 1000, you can find data processing code in data_process.py)
 
-(default setting for NELL data, set dropout raito ~0.1 for Wiki data)
+(default setting for NELL data, set dropout ratio ~0.1 for Wiki data)
 
 (create models/ directory before running)
 

@@ -18,9 +18,14 @@ Run the code: python main.py [parameter]
 <2> If you find code useful, pls consider cite our paper.
 
 @inproceedings{zhang2020kg,
+
   title={Few-Shot Knowledge Graph Completion},
+  
   author={Chuxu Zhang and Huaxiu Yao and Chao Huang and Meng Jiang and Zhenhui Li and Nitesh V. Chawla},
+  
   booktitle={Proceedings of AAAI Conference on Artificial Intelligence},
+  
   year={2020}
+  
 }
 
